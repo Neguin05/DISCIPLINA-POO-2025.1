@@ -82,7 +82,7 @@ seguir. Mostre o saldo médio e o valor do crédito.
 buidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a
 seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
 
-## Cap. 5 - Estrutura de Repetição 11-20
+## Cap. 5 - Estrutura de Repetição
 ### EXERCICIOS RESOLVIDOS
 
 1 - Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
